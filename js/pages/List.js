@@ -164,7 +164,7 @@ export default {
         // Error handling
         if (!this.list) {
             this.errors = [
-                "Failed to load list. Retry in a few minutes or notify list staff.",
+                "Failed to load list. Retry in a few minutes.",
             ];
         } else {
             this.errors.push(
