@@ -9,16 +9,16 @@
     "password": "N/A",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Neltunm",
+            "link": "https://www.youtube.com/watch?v=Z010sw9ZfVg",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Sp0nplays",
+            "link": "https://www.youtube.com/watch?v=Na32G2I5A_k&pp=ygUPc3dlZXQgcGVyaWRpdG9u",
             "percent": 100,
-            "hz": 120
+            "hz": 240
         }
     ]
 }
