@@ -1,1 +1,48 @@
-
+{
+    "id": 9242,
+    "name": "HELLWAVE",
+    "author": "Dubairusi",
+    "creators": [],
+    "verifier": "Tactycl",
+    "verification": "https://www.youtube.com/watch?v=rWK1oFdwCX0",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Noah_Beatle",
+            "link": "https://www.youtube.com/watch?v=42DHoZczES4&t=0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JustForBattery",
+            "link": "https://www.youtube.com/watch?v=g6HoriqZKco",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "HiivaCleanedYou",
+            "link": "https://www.youtube.com/watch?v=HHaYV5xt-wk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ninjaelectric3366",
+            "link": "https://www.youtube.com/watch?v=6LaJXxTEfwI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Despairfroggy",
+            "link": "https://www.youtube.com/watch?v=bAmhEkQJmwE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Neltumn",
+            "link": "https://www.youtube.com/watch?v=ceM8EsLXKnY&t=0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
