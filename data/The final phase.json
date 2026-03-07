@@ -1,1 +1,18 @@
-
+{
+    "id": 469516,
+    "name": "The final phase",
+    "author": "Estilasr16",
+    "creators": [],
+    "verifier": "Tactycl",
+    "verification": "https://www.youtube.com/watch?v=cFYMGSf6zdQ&t=0",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Neltumn",
+            "link": "https://www.youtube.com/watch?v=Oi4CEoqyfFw",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
