@@ -1,1 +1,24 @@
-
+{
+    "id": 364028,
+    "name": "The Firn Line",
+    "author": "Dr_TraybIox1122",
+    "creators": [],
+    "verifier": "Tactycl",
+    "verification": "https://www.youtube.com/watch?v=F5F2o63Hvlc",
+    "percentToQualify": "100",
+    "password": "N/A",
+    "records": [
+        {
+            "user": "Noah_Beatle",
+            "link": "https://www.youtube.com/watch?v=LxzIt6a-sEE&t=0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Neltumn",
+            "link": "https://www.youtube.com/watch?v=ZpBzWQPNBbk&t=0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
