@@ -1,0 +1,24 @@
+{
+    "id": 398753,
+    "name": "Kanjo",
+    "author": "Root5",
+    "creators": ["Root5"],
+    "verifier": "Root5",
+    "verification": "https://www.youtube.com/watch?v=zBVtq3Y-_cM",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+        {
+            "user": "Neltunm",
+            "link": "https://www.youtube.com/watch?v=Z010sw9ZfVg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Sp0nplays",
+            "link": "https://www.youtube.com/watch?v=Na32G2I5A_k&pp=ygUPc3dlZXQgcGVyaWRpdG9u",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
