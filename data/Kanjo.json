@@ -6,19 +6,31 @@
     "verifier": "Root5",
     "verification": "https://www.youtube.com/watch?v=zBVtq3Y-_cM",
     "percentToQualify": "100",
-    "password": "",
+    "password": "Free To Copy",
     "records": [
         {
-            "user": "Neltunm",
-            "link": "https://www.youtube.com/watch?v=Z010sw9ZfVg",
+            "user": "Tactycl",
+            "link": "https://www.youtube.com/watch?v=p862v6iARdo",
             "percent": 100,
-            "hz": 240
+            "hz": 60+
         },
         {
-            "user": "Sp0nplays",
-            "link": "https://www.youtube.com/watch?v=Na32G2I5A_k&pp=ygUPc3dlZXQgcGVyaWRpdG9u",
+            "user": "Neltumn",
+            "link": "https://www.youtube.com/watch?v=nCwdE_m7ZdY",
             "percent": 100,
-            "hz": 240
+            "hz": 60+
+        },
+        {
+            "user": "HiivaCleanedYou",
+            "link": "https://www.youtube.com/watch?v=v-LYK2jBmP0",
+            "percent": 100,
+            "hz": 60+
+        },
+        {
+            "user": "Noah_Beatle",
+            "link": "https://www.youtube.com/watch?v=uVZC3my_VjM",
+            "percent": 100,
+            "hz": 60+
         }
     ]
 }
