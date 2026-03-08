@@ -1,1 +1,24 @@
-
+{
+    "id": 361657,
+    "name": "Dysfunction",
+    "author": "NolanSpeedy",
+    "creators": [],
+    "verifier": "Tactycl",
+    "verification": "https://www.youtube.com/watch?v=ylUHlfdCtn8&t=0",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Neltumn",
+            "link": "https://www.youtube.com/watch?v=Z010sw9ZfVg",
+            "percent": 100,
+            "In Game Difficulty": "Extreme Demon"
+        },
+        {
+            "user": "Sp0nplays",
+            "link": "https://www.youtube.com/watch?v=Na32G2I5A_k&pp=ygUPc3dlZXQgcGVyaWRpdG9u",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
