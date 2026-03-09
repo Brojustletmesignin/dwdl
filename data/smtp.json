@@ -8,5 +8,35 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Tactycl",
+            "link": "https://www.youtube.com/watch?v=_WjbjJht3IQ&t=0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "xoliverx35",
+            "link": "https://www.youtube.com/watch?v=_WjbjJht3IQ&t=0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Noah_Beatle",
+            "link": "https://www.youtube.com/watch?v=IItb059twTY&t=0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "HiivaCleanedYou",
+            "link": "https://www.youtube.com/watch?v=azXRdmToEdY",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Neltumn",
+            "link": "https://www.youtube.com/watch?v=I7YGmhcMQHg&t=0",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
