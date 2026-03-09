@@ -8,5 +8,23 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "HiivaCleanedYou",
+            "link": "https://www.youtube.com/watch?v=BCR1NjFq5Zs",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Noah_Beatle",
+            "link": "https://www.youtube.com/watch?v=IARZqQF_Pps&t=0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Neltumn",
+            "link": "https://www.youtube.com/watch?v=CVTU6IZxi4E",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
