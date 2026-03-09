@@ -8,5 +8,29 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Neltumn",
+            "link": "https://www.youtube.com/watch?v=BkgPqRgX_Dw&t=0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "HiivaCleanedYou",
+            "link": "https://www.youtube.com/watch?v=TCvuCEkEa98",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Noah_Beatle",
+            "link": "https://www.youtube.com/watch?v=sJAGjlFQBGc&t=0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "kratoswait",
+            "link": "https://www.youtube.com/watch?v=0Xq-I0MVwhw",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
