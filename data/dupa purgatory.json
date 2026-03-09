@@ -8,5 +8,47 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "HiivaCleanedYou",
+            "link": "https://www.youtube.com/watch?v=wjaRLQBbjOA",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "GattoVerde_PewPew",
+            "link": "https://www.youtube.com/watch?v=L1ptPuk2Ug0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Noah_Beatle",
+            "link": "https://www.youtube.com/watch?v=-wb0e9UHoKo",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "uwu_cammie",
+            "link": "https://www.youtube.com/watch?v=9ps7fli8SEw&t=0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Lam1ity",
+            "link": "https://www.youtube.com/watch?v=FXHcR3ieG2g&t=0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Neltumn",
+            "link": "https://www.youtube.com/watch?v=69-e2qGYH2E",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "kratoswait",
+            "link": "https://www.youtube.com/watch?v=wt6ZE6UqkS4&t=0",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
